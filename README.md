@@ -30,7 +30,9 @@ The primary objective of this project is to design and develop an autonomous rob
 ➡️ Refer the assembly code file : code.asm
 
 # Ciruit Diagram
--> Refer schematic.jpeg
+-> Refer schematic.png 
+
+https://github.com/harinisubbiah/Obstacle-Avoiding-Automobile-using-IR-Sensor/blob/c115c94dcca4248b56991c32d28e9864cfac0757/schematic.png 
 
 # How it Works
 • This project features an autonomous robot car built using an 8051 microcontroller and three IR sensors (front, left, right).
