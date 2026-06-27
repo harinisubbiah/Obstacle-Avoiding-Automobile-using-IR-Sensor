@@ -53,6 +53,7 @@ The primary objective of this project is to design and develop an autonomous rob
 
 # Contributors
  1. Harshini S [https://github.com/harshini-subbiah]
+
  2.S Deepika Sri [https://github.com/SDeepikaSri]
 
 # 📜 License
