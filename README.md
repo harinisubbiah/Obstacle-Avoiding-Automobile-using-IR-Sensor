@@ -32,7 +32,8 @@ The primary objective of this project is to design and develop an autonomous rob
 # Ciruit Diagram
 -> Refer schematic.png 
 
-https://github.com/harinisubbiah/Obstacle-Avoiding-Automobile-using-IR-Sensor/blob/c115c94dcca4248b56991c32d28e9864cfac0757/schematic.png 
+<img width="669" height="479" alt="image" src="https://github.com/user-attachments/assets/0f0863a7-1750-477e-a291-4e72c4291a1e" />
+
 
 # How it Works
 • This project features an autonomous robot car built using an 8051 microcontroller and three IR sensors (front, left, right).
@@ -50,11 +51,13 @@ https://github.com/harinisubbiah/Obstacle-Avoiding-Automobile-using-IR-Sensor/bl
 
 4.Connect the board to the laptop and upload the code using the ISP Program driver.
 
+# Contributors
+ 1. Harshini S [https://github.com/harshini-subbiah]
+ 2.S Deepika Sri [https://github.com/SDeepikaSri]
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
 # Author
 Harini S
-
-# Contributors
- Harshini S [https://github.com/harshini-subbiah]
- 
- S Deepika Sri [https://github.com/SDeepikaSri]
-
