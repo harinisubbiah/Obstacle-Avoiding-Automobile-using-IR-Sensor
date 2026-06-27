@@ -52,9 +52,8 @@ The primary objective of this project is to design and develop an autonomous rob
 4.Connect the board to the laptop and upload the code using the ISP Program driver.
 
 # Contributors
- 1. Harshini S [https://github.com/harshini-subbiah]
-
- 2.S Deepika Sri [https://github.com/SDeepikaSri]
+- Harshini S [https://github.com/harshini-subbiah]
+- S Deepika Sri [https://github.com/SDeepikaSri]
 
 # 📜 License
 
