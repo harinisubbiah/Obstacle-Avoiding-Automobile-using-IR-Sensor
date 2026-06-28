@@ -43,9 +43,9 @@ The primary objective of this project is to design and develop an autonomous rob
 - Harshini S [https://github.com/harshini-subbiah]
 - S Deepika Sri [https://github.com/SDeepikaSri]
 
-# 📜 License
+# License
 
 This project is licensed under the MIT License.
 
 # Author
-Harini S
+**Harini S**
