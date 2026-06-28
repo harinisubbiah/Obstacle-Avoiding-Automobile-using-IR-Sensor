@@ -1,33 +1,21 @@
 # Obstacle-Avoiding-Automobile-using-IR-Sensor
 The primary objective of this project is to design and develop an autonomous robot that intelligently navigates its surroundings using IR sensors, while delivering real-time feedback through a buzzer alert system.
 
-# 🔩 Hardware Components Used
-✅ AT89S52 Microcontroller
+#  Hardware Components Used
+- AT89S52 Microcontroller
+- L293D Motor Driver IC
+- 3 TSOP18638 IR Sensors
+- 2 DC Motors
+- BC547 NPN Transistor
+- 1K Resistor
+- Buzzer
+- 5V Power Supply
+- Connecting Wires
+- Breadboard
 
-✅ L293D Motor Driver IC
-
-✅ 3 TSOP18638 IR Sensors
-
-✅2 DC Motors
-
-✅ BC547 NPN Transistor
-
-✅ 1K Resistor
-
-✅ Buzzer
-
-✅ 5V Power Supply
-
-✅ Connecting Wires
-
-✅ Breadboard
-
-# 💻 Software Required
-➡️ Keil uVision
-
-➡️ Download the 8051 ISP Program and driver and follow the steps given in the link to install :  https://www.instructables.com/USBASP-Installation-in-Windows-10/
-
-➡️ Refer the assembly code file : code.asm
+# Software Required
+`Keil uVision`
+- Download the 8051 ISP Program and driver and follow the steps given in the link to install :  https://www.instructables.com/USBASP-Installation-in-Windows-10/
 
 # Ciruit Diagram
 -> Refer schematic.png 
@@ -42,7 +30,7 @@ The primary objective of this project is to design and develop an autonomous rob
 
 • A buzzer provides real-time alerts at junctions or when all sensors detect obstacles.
 
-# ⚙️ Set up
+# Set up
 1.Connect the ciruit as per the given schematic diagram.
 
 2.Create a new project assigning the device as AT89S52.
